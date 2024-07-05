@@ -1,10 +1,10 @@
-# Mathematical physics notes
+# Mathematical_physics_curricula-notes
 
 ## Project Name
-Mathematical-physics notes
+Mathematical_physics_curricula-notes
 
 ## Description
-The author who is studying in Tsinghua university created this project. In those curricula I get an average GPA of 3.95(totally 4).
+The author who is studying in Physics Department, Tsinghua university created this project. In those curricula I get an average GPA of 3.95(totally 4).
 The documents, which are all hand-written, are for self-use only and not for sale.
 The contents herein represent only the personal views of the author, and there might be some mistakes while taking notes.
 
